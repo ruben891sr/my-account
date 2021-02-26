@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "countdown",
+  "name": "Sraccount",
   "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "title": "Sraccount",
+  "description": "Sraccount component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",

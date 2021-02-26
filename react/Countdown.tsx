@@ -1,16 +1,20 @@
 import React from 'react'
 
-interface CountdownProps { }
+interface SraccountProps { }
 
-const Countdown: StorefrontFunctionComponent<CountdownProps> = ({ }) => {
-  return <div></div>
+const Sraccount: StorefrontFunctionComponent<SraccountProps> = ({ }) => {
+  return (
+    <div>
+      <h1>Hola Mundo</h1>
+    </div>
+  )
 }
 
-Countdown.schema = {
-  title: 'editor.countdown.title',
-  description: 'editor.countdown.description',
+Sraccount.schema = {
+  title: 'editor.Sraccount.title',
+  description: 'editor.Sraccount.description',
   type: 'object',
   properties: {},
 }
 
-export default Countdown
+export default Sraccount

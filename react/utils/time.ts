@@ -21,7 +21,7 @@ const fillWithZero = (digits: number, number: number) : string => {
 
 /**
  *
- * @param targetDate ISOString for the date that the countdown will expire
+ * @param targetDate ISOString for the date that the Sraccount will expire
  * @param dispatchFn A function that updates the state of the component
  */
 export const tick = (targetDate: string, dispatchFn: React.Dispatch<React.SetStateAction<TimeSplit>>) => {
