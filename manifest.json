@@ -1,7 +1,7 @@
 {
   "vendor": "pillin",
   "name": "sraccount",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.3-beta.0",
   "title": "Sraccount",
   "description": "Sraccount component",
   "defaultLocale": "pt-BR",
